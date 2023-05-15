@@ -5,7 +5,7 @@ position: 5
 layout: "@docs"
 ---
 
-## Step 1: Code configuration
+## Code configuration
 
 You can use any project stucture you like, but you must have a file named `requirements.txt` at the root of your project that list the dependencies of your app.
 
@@ -58,7 +58,7 @@ def hello_world():
     return "Hello, Space!"
 ```
 
-## Step 2: Run it on Space
+## Run it on Space
 
 Make sure you have the Space CLI installed & authenticated, then run the following command:
 
